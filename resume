@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<head>
+	<title>My Resume</title>
+</head>
+<body bgcolor="lightblue">
+<table border="1" align="center" width="60%">
+<tr bgcolor="pink">
+<th>
+	<h1>
+		<u><b>WELCOME TO MY RESUME!</b></u>
+	</h1>
+</th>
+<tr>
+	<th align="left">
+	<img src="https://he-s3.s3.amazonaws.com/media/avatars/sumitavanandi7/resized/180/photo.jpg" align="right" width="200" height="220" border="1">
+	<h2>SUMITAVA NANDI ROY</h2>
+	PHONE NO:-123456789<br>
+	EMAIL ADDRESS:-sa4059@srmist.edu.in<br>
+<h2>PERSONAL INFORMATION:</h2>
+<ul>
+	<li>FATHER NAME : AMITAVA NANDI ROY</li>
+	<li>RELIGION : HINDU</li>
+	<li>DATE OF BIRTH : 26 JULY 1999</li>
+	<li>NATIONALITY : INDIAN</li>
+	<li>MARITAL STATUS : UNMARRIED</li>
+</ul>
+<h2>QUALIFICATION:</h2>		
+<table border="1" cellpadding="5%" cellspacing="5%">
+	<tr bgcolor="pink">
+		<th>EXAMINATION</th>
+		<th>PERCENTAGE/CGPA</th>
+		<th>BOARD UNIVERSITY</th>
+	</tr>
+	<tr>
+		<td>SECONDARY</td>
+		<td>9.2</td>
+		<td>C.B.S.E</td>
+	</tr>
+	<tr>
+		<td>HIGHER SECONDARY</td>
+		<td>82%</td>
+		<td>C.B.S.E</td>
+	</tr>
+	<tr>
+		<td>GRADUATION</td>
+		<td>91%(TILL 6TH SEM.)</td>
+		<td>A.I.C.T.E</td>
+	</tr>
+</table>
+<h2>PERSONAL CERTIFICATES &SKILLS:</h2>
+<ul>
+	<li>Ms WORD,Ms DOS,Ms EXCEL,Ms POWERPOINT,VISUAL BASIC</li>
+	<li>COREL DRAW,PHOTOSHOP</li>
+	<li>HTML(CERTIFIES BY SOLOLEARN)</li>
+	<li>BUILDING WEB APPLICATIONS USING PHP(COURSERA)</li>
+</ul>
+<h2>PROJECTS AND INTERNSHIP</h2>
+	<ul>
+		<li>INTERN AT K.P.T.L INDUSTRY</li>
+		<li>WORKING MODEL OF HYDRAULIC ARM</li>
+	</ul>
+<h2>LANGUAGES KNOWN</h2>
+	<ul>
+		<li>ENGLISH</li>
+		<li>HINDI</li>
+		<li>BENGALI</li>
+		<li>JAPENESE(BEGINNER)</li>
+	</ul>
+<h3>HOBBIES</h3>
+	<ul>
+		<li>PLAYING GAMES</li>
+		<li>FOOTBALL</li>
+		<li>READING STORY BOOKS(DETECTIVE AND THRILLER )</li>
+	</ul>			
+</th>
+</tr>
+</tr>
+</table>
+</body>
+</html>
