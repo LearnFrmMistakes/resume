@@ -1,0 +1,24 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>letters in alphabetical order</title>
+</head>
+<body>
+	<p>
+	Example string  : 'webmaster' <br>
+	 Output : 'abeemrstw' <br>
+	</p>
+	
+	<script>
+		function alphabeticalOrder (string){
+			string = string.toString();
+			console.log(string.toLowerCase().split("").sort().join(""));
+		
+		}
+		alphabeticalOrder ("Jelena,dsaf ihjko#w[qler5435.");
+		alphabeticalOrder (508342847657);
+	</script>
+  
+</body>
+</html>
